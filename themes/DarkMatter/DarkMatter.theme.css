@@ -29,7 +29,7 @@
 /* Main background and settings background */
 .app,
 .callout-backdrop {
-	background: url(https://i.imgur.com/7SbtKvw.png) !important;
+	background: linear-gradient(20deg,cyan,magenta)  !important;
 	background-size: cover !important;
 }
 
@@ -42,9 +42,6 @@
 
 */
 
-div>*:not(code) {
-	font-family: 'Karla',Whitney,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif !important;
-}
 
 textarea {
 	background: transparent !important;
